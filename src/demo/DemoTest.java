@@ -6,8 +6,14 @@ public class DemoTest {
 	}
 	
 	//for US
-	public static void add(int a, int b) {
+	public static void sub(int a, int b) {
 		System.out.println(a-b);
 	}
+	
+	// for add
+	public static void add(int a, int b) {
+		System.out.println(a+b);
+	}
+	
 
 }
