@@ -15,5 +15,10 @@ public class DemoTest {
 		System.out.println(a+b);
 	}
 	
+	//update
+	public static void update(String str){
+		System.out.println("Update...");	
+	}
+	
 
 }
